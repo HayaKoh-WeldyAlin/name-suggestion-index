@@ -9629,6 +9629,22 @@
       }
     },
     {
+      "displayName": "にぎりの徳兵衛",
+      "id": "nigirinotokube-36ca8e",
+      "locationSet": {"include": ["jp-chubu.geojson","jp-kinki.geojson"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "にぎりの徳兵衛",
+        "brand:en": "Nigiri no Tokube",
+        "brand:ja": "にぎりの徳兵衛",
+        "brand:wikidata": "Q71624979",
+        "cuisine": "sushi",
+        "name": "にぎりの徳兵衛",
+        "name:en": "Nigiri no Tokube",
+        "name:ja": "にぎりの徳兵衛"
+      }
+    },
+    {
       "displayName": "バーミヤン",
       "id": "bamiyan-36ca8e",
       "locationSet": {"include": ["jp"]},
