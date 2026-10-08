@@ -12659,6 +12659,28 @@
       }
     },
     {
+      "displayName": "フレッシュバザール",
+      "id": "freshbazaar-9bc55c",
+      "locationSet": {
+        "include": [
+          "jp-18.geojson",
+          "jp-26.geojson",
+          "jp-27.geojson",
+          "jp-29.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "フレッシュバザール",
+        "brand:en": "Fresh Bazaar",
+        "brand:ja": "フレッシュバザール",
+        "brand:wikidata": "Q141674048",
+        "name": "フレッシュバザール",
+        "name:en": "Fresh Bazaar",
+        "name:ja": "フレッシュバザール",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "フレスタ",
       "id": "fresta-9bc55c",
       "locationSet": {
@@ -12875,6 +12897,26 @@
         "name": "マルナカ",
         "name:en": "Marunaka",
         "name:ja": "マルナカ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "ミニフレッシュ",
+      "id": "minifresh-9bc55c",
+      "locationSet": {
+        "include": [
+          "jp-26.geojson",
+          "jp-29.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "ミニフレッシュ",
+        "brand:en": "Mini Fresh",
+        "brand:ja": "ミニフレッシュ",
+        "brand:wikidata": "Q141674092",
+        "name": "ミニフレッシュ",
+        "name:en": "Mini Fresh",
+        "name:ja": "ミニフレッシュ",
         "shop": "supermarket"
       }
     },
