@@ -11785,6 +11785,23 @@
       }
     },
     {
+      "displayName": "美山",
+      "id": "miyama-36ca8e",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["しゃぶしゃぶ美山"],
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "美山",
+        "brand:en": "Miyama",
+        "brand:ja": "美山",
+        "brand:wikidata": "Q141678390",
+        "cuisine": "japanese",
+        "name": "美山",
+        "name:en": "Miyama",
+        "name:ja": "美山"
+      }
+    },
+    {
       "displayName": "老乡鸡",
       "id": "homeoriginalchicken-0a8e9b",
       "locationSet": {"include": ["cn"]},
@@ -12322,6 +12339,24 @@
         "name:zh": "鼎泰豐",
         "name:zh-Hans": "鼎泰丰",
         "name:zh-Hant": "鼎泰豐"
+      }
+    },
+    {
+      "displayName": "龍神丸",
+      "id": "ryujinmaru-36ca8e",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": [
+        "土佐わら焼き 龍神丸",
+        "わら焼き酒場龍神丸"
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "龍神丸",
+        "brand:ja": "龍神丸",
+        "brand:wikidata": "Q141678436",
+        "cuisine": "japanese",
+        "name": "龍神丸",
+        "name:ja": "龍神丸"
       }
     }
   ]
