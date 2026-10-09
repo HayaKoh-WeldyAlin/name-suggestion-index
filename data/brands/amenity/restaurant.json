@@ -12149,6 +12149,28 @@
       }
     },
     {
+      "displayName": "韓美膳",
+      "id": "hanbije-36ca8e",
+      "locationSet": {"include": ["jp","tw"]},
+      "tags": {
+        "alt_name": "ハンビジェ",
+        "alt_name:ja": "ハンビジェ",
+        "amenity": "restaurant",
+        "brand": "韓美膳",
+        "brand:en": "Hanbije",
+        "brand:ja": "韓美膳",
+        "brand:ko": "한비재",
+        "brand:zh-Hant": "韓美膳",
+        "brand:wikidata": "Q141678285",
+        "cuisine": "korean",
+        "name": "韓美膳",
+        "name:en": "Hanbije",
+        "name:ja": "韓美膳",
+        "name:ko": "한비재",
+        "name:zh-Hant": "韓美膳"
+      }
+    },
+    {
       "displayName": "餃子の王将",
       "id": "gyozanoohsho-36ca8e",
       "locationSet": {"include": ["jp"]},
